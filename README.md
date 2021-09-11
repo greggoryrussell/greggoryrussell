@@ -18,16 +18,17 @@ My name is Gregg and I've been using Linux as a hobbyist for 15 years and 4 year
 + MySQL / MariaDB
 + PostGreSQL
 + SQLIte3
-
-## 🌐 Web Servers 🌐
 + NGINX
 + Apache
 + Gunicorn
-
-## 🧠 Interests / Currently Studying 🧠
++ Containers / Docker / Podman 
+ 
+## 🧠 Interests / Want to Learn More About 🧠
 + Ruby on Rails
 + Lua / AwesomeWM
-+ Ansible 
++ Ansible
++ Kubernetes / K3s
+
 
 ## 🛠️ Self-Hosted Homelab Tools 🛠️
 + PiHole
