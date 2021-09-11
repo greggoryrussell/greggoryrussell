@@ -1,5 +1,6 @@
 # @greggoryrussell
 - Check Out [My Personal Site](https://greggoryrussell.com)
+- Check Out [My Repositories](https://github.com/greggoryrussell?tab=repositories)
 
 Hello!
 
