@@ -9,6 +9,7 @@ My name is Gregg and I've been using Linux as a hobbyist for 15 years and 4 year
 
 ## 💾 Skills 💾
 + Bash
++ Zsh
 + [Python3](https://github.com/greggoryrussell/python)
 + Ruby
 + Ansible / Jinga2
@@ -22,12 +23,28 @@ My name is Gregg and I've been using Linux as a hobbyist for 15 years and 4 year
 + Apache
 + Gunicorn
 + Containers / Docker / Podman 
++ Flask
++ Ruby on Rails
++ SQLAlchemy
+
+### Observability
++ Icinga, Icinga2
++ Graphite
++ Grafana
++ carbon-c-relay
++ collectd
++ statsd
  
-## 🧠 Interests / Want to Learn More About 🧠
+## 🧠 Current Projects / Near Future Study Plans 🧠
 + Ruby on Rails
 + Lua / AwesomeWM
 + Ansible
 + Kubernetes / K3s
++ Prometheus
++ Promtail
++ Loki
++ Apache Kafka
++ ZeroMQ
 
 
 ## 🛠️ Self-Hosted Homelab Tools 🛠️
